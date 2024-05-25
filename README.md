@@ -37,9 +37,8 @@ This will calculate the integral of \( f(x) = e^x \) from 0 to 2 using 100000 ra
 This project is licensed under the [MIT License](LICENSE).
 
 
-This will calculate the integral of \( f(x) = e^x \) from 2 to 5 using 100, 1000, 10000 and 100000000 random points.
-
 ## Results
+This will calculate the integral of \( f(x) = e^x \) from 2 to 5 using 100, 1000, 10000 and 100000000 random points.
 
 | Number of Random Points | Monte Carlo Method | Analytical Method | Quad Method | MC - Analytical | MC - Quad |
 |-------------------------|--------------------|-------------------|-------------|-----------------|-----------|
